@@ -1,7 +1,7 @@
 mM	body {margin: 0; padding: 0;}
 
 .map {
-	position: relative;
+	position: absolute;
 	text-align: center;
 	
 }
