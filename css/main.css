@@ -3,9 +3,7 @@
 .map {
 	position: relative;
 	text-align: center;
-	width: 100%;
-	max-width: 100%;
-	display: block;
+	
 }
 svg {
 	position: absolute;
