@@ -1,16 +1,15 @@
 mM	body {margin: 0; padding: 0;}
 
 .map {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	
 }
 svg {
-	position: fixed;
+	position: absolute;
 	top: 0;
 	left: 0;
-	height: 100%;
-	width: 100%;
+
 	
 }
 .part:hover {
