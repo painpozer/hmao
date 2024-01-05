@@ -6,7 +6,7 @@ mM	body {margin: 0; padding: 0;}
 	
 }
 svg {
-	position: relative;
+	position: fixed;
 	top: 0;
 	left: 0;
 	height: 100%;
