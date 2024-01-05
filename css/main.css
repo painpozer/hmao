@@ -1,9 +1,11 @@
 	body {margin: 0; padding: 0;}
 
 .map {
-  width: 100%;
-  max-width: 100%;
-  display: block;
+	position: relative;
+	text-align: center;
+	width: 100%;
+	max-width: 100%;
+	display: block;
 }
 svg {
 	position: absolute;
